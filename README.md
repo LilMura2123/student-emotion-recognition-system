@@ -142,3 +142,9 @@ student-emotion-recognition-system/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
+
+## 👤 Author
+
+**Khadzhimurad Khutraev**  
+
+Data science student with a focus on machine learning and neural networks.
