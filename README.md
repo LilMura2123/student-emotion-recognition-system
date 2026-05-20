@@ -111,6 +111,20 @@ Best model:
 
 ---
 
+## 🔒 Ethics & Privacy
+
+This project is intended for educational and research purposes.
+
+The system processes facial emotion data and therefore should be used responsibly and in compliance with privacy regulations and ethical AI practices.
+
+Recommendations:
+- obtain user consent before analysis;
+- avoid storing personal biometric data;
+- use anonymized educational datasets whenever possible;
+- ensure transparency of AI-generated decisions.
+
+---
+
 ## 📂 Project Structure
 
 ```text
