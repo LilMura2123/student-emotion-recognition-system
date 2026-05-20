@@ -1,0 +1,7 @@
+deepface
+opencv-python
+matplotlib
+pillow
+numpy
+tensorflow
+ipython
