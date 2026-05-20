@@ -143,6 +143,8 @@ student-emotion-recognition-system/
 ├── README.md
 └── LICENSE
 
+---
+
 ## 👤 Author
 
 **Khadzhimurad Khutraev**  
